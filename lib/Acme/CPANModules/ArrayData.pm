@@ -13,8 +13,8 @@ use Acme::CPANModulesUtil::Misc;
 my $text = <<'MARKDOWN';
 
 <pm:ArrayData> is a way to package 1-dimensional array data as a Perl/CPAN
-module. It also provides a standard interface to access the data, including
-iterating the data rows, getting the column names, and so on.
+module. It also provides a standard interface to access the data, currently
+read-only.
 
 
 **The data**
